@@ -1,0 +1,11 @@
+{
+    "app_title": "Lab: STL Containers",
+    "word_count_header": "--- 1. Unique Word Count ---",
+    "word_index_header": "--- 2. Word Position Index ---",
+    "stl_prime_header": "--- 3a. Prime Numbers (squared) ---",
+    "stl_sort_header": "--- 3b. Sort (Odds Asc, Evens Desc) ---",
+    "stl_search_header": "--- 3c. Unique Numbers in Range ---",
+    "original_vector": "Original vector: ",
+    "result_vector": "Result: ",
+    "input_range_prompt": "Enter range (two numbers): "
+}
